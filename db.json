@@ -1,0 +1,103 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Slam Burger",
+            "restaurant": "Street Beef",
+            "website": "https://www.streetbeef.com/slamburger",
+            "Ingredients": [
+                "100% Beef, American Cheese, Lettuce, Tomatoes, Slam Sauce, Mustard, Mayo"
+            ],
+            "Description": "Our Slam Burger's super power is it's Slam Sauce that'll knock your socks off!",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 1,
+            "name": "AMW Burger",
+            "restaurant": "Street Beef",
+            "website": "https://www.streetbeef.com/amwburger",
+            "Ingredients": [
+                "100% Beef, American Cheese, Cheddar Cheese, Street Beef BBQ"
+            ],
+            "Description": "Our AMW Burger's is addictive, be careful!",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 2,
+            "name": "Burger Rush",
+            "restaurant": "Street Beef",
+            "website": "https://www.streetbeef.com/burgerrush",
+            "Ingredients": [
+                "100% Beef, American Cheese, Street Beef BBQ, Slam Sauce, Pickles, Onions"
+            ],
+            "Description": "Our Burger Rush is so full of flavor that each bite just melts in your mouth.",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 3,
+            "name": "Brooklyn Burger",
+            "restaurant": "Street Beef",
+            "website": "https://www.streetbeef.com/brooklynburger",
+            "Ingredients": [
+                "Pepper Jack Cheese, Applewood Bacon, Pickled Onions, Banana Peppers"
+            ],
+            "Description": "Take a blast to the streets of Brooklyn with our Brooklyn Burger",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 4,
+            "name": "Englewood Burger",
+            "restaurant": "Street Beef",
+            "website": "https://www.streetbeef.com/englewoodburger",
+            "Ingredients": [
+                "Three-Year Aged White cheddar, Hickory Smoked Bacon, Char-Grilled Onions + Bacon Brioche"
+            ],
+            "Description": "Take a blast to the streets of Chicago with our Englewood Burger",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 5,
+            "name": "LA Burger",
+            "restaurant": "Street Beef",
+            "website": "https://www.streetbeef.com/laburger",
+            "Ingredients": [
+                "100% all Beef Quarter Pound Patty Served on a Fresh Bun with Original Tommy's Famous Chili, Hand Sliced Beefsteak Tomato, Mustard, Pickles, and Fresh Chopped Onions."
+            ],
+            "Description": "Take a blast to the streets of Los Angeles with our LA Burger",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 6,
+            "name": "Impossible",
+            "restaurant": "Puregrass",
+            "website": "https://www.puregrass.com/impossible",
+            "Ingredients": [
+                "Made entirely from PLANTS. Cholesterol free, 17 grams of protein and 35% less fat than ground beef. Topped with grilled onions, cheddar cheese, lettuce, tomato, and sweet red onion."
+            ],
+            "Description": "It's not real meat, it's a plant!",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 7,
+            "name": "Beyond",
+            "restaurant": "Puregrass",
+            "website": "https://www.puregrass.com/beyond",
+            "Ingredients": [
+                "Plant-Based Patty with 20 grams of plant protein per serving, refined coconut oil, canola oil, rice protein"
+            ],
+            "Description": "It's not real meat, it's a plant!",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        },
+        {
+            "id": 8,
+            "name": "Purgrass",
+            "restaurant": "Puregrass",
+            "website": "https://www.puregrass.com/puregrass",
+            "Ingredients": [
+                "100% Grass Fed Beef Burger, No Antibiotics, no hormones and no steroids, ever, Pasture fed and humanely raised"
+            ],
+            "Description": "It's not real meat, it's a plant!",
+            "Address": "3145 Burger Drive Chicago, IL 60643"
+        }
+    ]
+}
